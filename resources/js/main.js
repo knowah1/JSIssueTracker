@@ -1,4 +1,4 @@
-// Event handler for click of Submit button
+// Event handler for click of Submit button 
 document.getElementById('issueInputForm').addEventListener('submit', saveIssue);
 
 // Save issue function
